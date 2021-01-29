@@ -9,7 +9,6 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-	//commit master 15h38
     /**
      * Rigorous Test :-)
      */
