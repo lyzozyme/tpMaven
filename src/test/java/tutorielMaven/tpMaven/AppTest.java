@@ -11,7 +11,7 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
-     * autre commentaire sous le rigorous test, on va voir si conflit il y a
+     * commentaire sous le rigorous test
      */
     @Test
     public void shouldAnswerWithTrue()
