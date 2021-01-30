@@ -11,6 +11,7 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
+     * commentaire sous le rigorous test
      */
     @Test
     public void shouldAnswerWithTrue()
